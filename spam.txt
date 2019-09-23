@@ -1,0 +1,28 @@
+<div style="position: absolute; left: -10000px;">
+	<a href="http://mos-wedding.ru/">mos-wedding.ru</a>
+	<a href="http://ferture.ru/">ferture.ru</a>
+	<a href="http://www.normazhizni.ru/">www.normazhizni.ru</a>
+	<a href="http://lavikti.ru/">lavikti.ru</a>
+	<a href="http://kf-consult.ru/">kf-consult.ru</a>
+	<a href="http://fradakull.ru/">fradakull.ru</a>
+	<a href="http://almatamle.ru/">almatamle.ru</a>
+	<a href="http://satberlink.ru/">satberlink.ru</a>
+	<a href="http://ooostroidvor-msk.ru/">ooostroidvor-msk.ru</a>
+	<a href="http://life-rai.ru/">life-rai.ru</a>
+	<a href="http://nepoznonoe.ru/">nepoznonoe.ru</a>
+	<a href="http://tpk-elnia.ru/">tpk-elnia.ru</a>
+	<a href="http://viberaem-auto">viberaem-auto</a>
+</div>
+
+<div style="position: absolute; left: -9999px;">
+	<a href="http://teksstil.ru/">teksstil.ru</a>
+	<a href="http://home-pribor.ru/">home-pribor.ru</a>
+	<a href="http://superzirka.tv/">superzirka.tv</a>
+	<a href="http://bguby.cn/">bguby.cn</a>
+	<a href="http://onelovestory.ru/">onelovestory.ru</a>
+	<a href="http://www.rossianka-m.ru/">www.rossianka-m.ru</a>
+	<a href="http://bestfromnet.ru/">bestfromnet.ru</a>
+	<a href="http://vot-tak-vot.ru/">vot-tak-vot.ru</a>
+	<a href="http://supertweet.ru/">supertweet.ru</a>
+	<a href="http://zvukovaya-volna.ru/">zvukovaya-volna.ru</a>
+</div>
